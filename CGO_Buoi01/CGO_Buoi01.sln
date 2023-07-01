@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi01", "CGO_Buoi01\CG
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi1_DoiTienTe", "CGO_Buoi1_DoiTienTe\CGO_Buoi1_DoiTienTe.csproj", "{48A1A41A-4279-4BE6-887C-CB18CBFEF625}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi1_SuDungToanTu", "CGO_Buoi1_SuDungToanTu\CGO_Buoi1_SuDungToanTu.csproj", "{27B80643-E8BB-4B39-AC89-B30B13363B94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{48A1A41A-4279-4BE6-887C-CB18CBFEF625}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48A1A41A-4279-4BE6-887C-CB18CBFEF625}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48A1A41A-4279-4BE6-887C-CB18CBFEF625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B80643-E8BB-4B39-AC89-B30B13363B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B80643-E8BB-4B39-AC89-B30B13363B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B80643-E8BB-4B39-AC89-B30B13363B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B80643-E8BB-4B39-AC89-B30B13363B94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

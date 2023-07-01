@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi01\CGO_Buoi1_SuDungToanTu\bin\Debug\CGO_Buoi1_SuDungToanTu.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi01\CGO_Buoi1_SuDungToanTu\bin\Debug\CGO_Buoi1_SuDungToanTu.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi01\CGO_Buoi1_SuDungToanTu\bin\Debug\CGO_Buoi1_SuDungToanTu.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi01\CGO_Buoi1_SuDungToanTu\obj\Debug\CGO_Buoi1_SuDungToanTu.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi01\CGO_Buoi1_SuDungToanTu\obj\Debug\CGO_Buoi1_SuDungToanTu.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi01\CGO_Buoi1_SuDungToanTu\obj\Debug\CGO_Buoi1_SuDungToanTu.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi01\CGO_Buoi1_SuDungToanTu\obj\Debug\CGO_Buoi1_SuDungToanTu.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi01\CGO_Buoi1_SuDungToanTu\obj\Debug\CGO_Buoi1_SuDungToanTu.pdb
