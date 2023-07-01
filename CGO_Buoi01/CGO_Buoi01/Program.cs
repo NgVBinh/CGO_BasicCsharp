@@ -15,8 +15,8 @@ namespace CGO_Buoi01
     {
         static void Main(string[] args)
         {
-            Console.InputEncoding= Encoding.UTF8;// nhập có dấu
-            Console.OutputEncoding= Encoding.UTF8;// xuất có dấu
+            Console.InputEncoding= Encoding.Unicode;// nhập có dấu
+            Console.OutputEncoding= Encoding.Unicode;
             string sHoTen;
             Console.Write("Nhập tên của bạn: ");
             sHoTen = Console.ReadLine();
