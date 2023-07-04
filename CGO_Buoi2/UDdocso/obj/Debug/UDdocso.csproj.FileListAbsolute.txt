@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi2\UDdocso\obj\Debug\UDdocso.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi2\UDdocso\obj\Debug\UDdocso.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi2\UDdocso\obj\Debug\UDdocso.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi2\UDdocso\bin\Debug\UDdocso.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi2\UDdocso\bin\Debug\UDdocso.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi2\UDdocso\bin\Debug\UDdocso.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi2\UDdocso\obj\Debug\UDdocso.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi2\UDdocso\obj\Debug\UDdocso.pdb
