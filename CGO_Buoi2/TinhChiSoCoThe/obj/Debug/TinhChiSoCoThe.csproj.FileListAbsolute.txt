@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi2\TinhChiSoCoThe\bin\Debug\TinhChiSoCoThe.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi2\TinhChiSoCoThe\bin\Debug\TinhChiSoCoThe.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi2\TinhChiSoCoThe\bin\Debug\TinhChiSoCoThe.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi2\TinhChiSoCoThe\obj\Debug\TinhChiSoCoThe.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi2\TinhChiSoCoThe\obj\Debug\TinhChiSoCoThe.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi2\TinhChiSoCoThe\obj\Debug\TinhChiSoCoThe.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi2\TinhChiSoCoThe\obj\Debug\TinhChiSoCoThe.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi2\TinhChiSoCoThe\obj\Debug\TinhChiSoCoThe.pdb
