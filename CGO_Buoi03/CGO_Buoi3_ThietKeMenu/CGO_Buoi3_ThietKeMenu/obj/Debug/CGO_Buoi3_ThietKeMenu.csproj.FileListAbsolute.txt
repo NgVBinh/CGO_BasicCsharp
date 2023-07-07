@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi03\CGO_Buoi3_ThietKeMenu\CGO_Buoi3_ThietKeMenu\bin\Debug\CGO_Buoi3_ThietKeMenu.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi03\CGO_Buoi3_ThietKeMenu\CGO_Buoi3_ThietKeMenu\bin\Debug\CGO_Buoi3_ThietKeMenu.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi03\CGO_Buoi3_ThietKeMenu\CGO_Buoi3_ThietKeMenu\bin\Debug\CGO_Buoi3_ThietKeMenu.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi03\CGO_Buoi3_ThietKeMenu\CGO_Buoi3_ThietKeMenu\obj\Debug\CGO_Buoi3_ThietKeMenu.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi03\CGO_Buoi3_ThietKeMenu\CGO_Buoi3_ThietKeMenu\obj\Debug\CGO_Buoi3_ThietKeMenu.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi03\CGO_Buoi3_ThietKeMenu\CGO_Buoi3_ThietKeMenu\obj\Debug\CGO_Buoi3_ThietKeMenu.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi03\CGO_Buoi3_ThietKeMenu\CGO_Buoi3_ThietKeMenu\obj\Debug\CGO_Buoi3_ThietKeMenu.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi03\CGO_Buoi3_ThietKeMenu\CGO_Buoi3_ThietKeMenu\obj\Debug\CGO_Buoi3_ThietKeMenu.pdb
