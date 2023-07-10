@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi4_TongMangMotChieu", "CGO_Buoi4_TongMangMotChieu\CGO_Buoi4_TongMangMotChieu.csproj", "{3AFB3BB1-2CB5-4EB1-B3E9-8F011611B6C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi4_TimTrongMang", "..\CGO_Buoi4_TimTrongMang\CGO_Buoi4_TimTrongMang.csproj", "{520925FA-0A3A-4B79-9A47-38B291277812}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3AFB3BB1-2CB5-4EB1-B3E9-8F011611B6C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AFB3BB1-2CB5-4EB1-B3E9-8F011611B6C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AFB3BB1-2CB5-4EB1-B3E9-8F011611B6C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{520925FA-0A3A-4B79-9A47-38B291277812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520925FA-0A3A-4B79-9A47-38B291277812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520925FA-0A3A-4B79-9A47-38B291277812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520925FA-0A3A-4B79-9A47-38B291277812}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
