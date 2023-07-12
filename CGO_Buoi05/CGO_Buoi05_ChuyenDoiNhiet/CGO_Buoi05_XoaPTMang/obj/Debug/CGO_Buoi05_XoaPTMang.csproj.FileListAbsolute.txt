@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_ChuyenDoiNhiet\CGO_Buoi05_XoaPTMang\bin\Debug\CGO_Buoi05_XoaPTMang.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_ChuyenDoiNhiet\CGO_Buoi05_XoaPTMang\bin\Debug\CGO_Buoi05_XoaPTMang.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_ChuyenDoiNhiet\CGO_Buoi05_XoaPTMang\bin\Debug\CGO_Buoi05_XoaPTMang.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_ChuyenDoiNhiet\CGO_Buoi05_XoaPTMang\obj\Debug\CGO_Buoi05_XoaPTMang.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_ChuyenDoiNhiet\CGO_Buoi05_XoaPTMang\obj\Debug\CGO_Buoi05_XoaPTMang.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_ChuyenDoiNhiet\CGO_Buoi05_XoaPTMang\obj\Debug\CGO_Buoi05_XoaPTMang.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_ChuyenDoiNhiet\CGO_Buoi05_XoaPTMang\obj\Debug\CGO_Buoi05_XoaPTMang.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_ChuyenDoiNhiet\CGO_Buoi05_XoaPTMang\obj\Debug\CGO_Buoi05_XoaPTMang.pdb

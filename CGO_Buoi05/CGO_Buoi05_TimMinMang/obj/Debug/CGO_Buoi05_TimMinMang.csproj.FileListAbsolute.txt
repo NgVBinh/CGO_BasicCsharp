@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_TimMinMang\bin\Debug\CGO_Buoi05_TimMinMang.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_TimMinMang\bin\Debug\CGO_Buoi05_TimMinMang.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_TimMinMang\bin\Debug\CGO_Buoi05_TimMinMang.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_TimMinMang\obj\Debug\CGO_Buoi05_TimMinMang.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_TimMinMang\obj\Debug\CGO_Buoi05_TimMinMang.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_TimMinMang\obj\Debug\CGO_Buoi05_TimMinMang.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_TimMinMang\obj\Debug\CGO_Buoi05_TimMinMang.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_TimMinMang\obj\Debug\CGO_Buoi05_TimMinMang.pdb

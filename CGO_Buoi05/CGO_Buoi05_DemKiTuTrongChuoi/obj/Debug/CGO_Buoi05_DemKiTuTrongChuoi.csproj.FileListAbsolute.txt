@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_DemKiTuTrongChuoi\bin\Debug\CGO_Buoi05_DemKiTuTrongChuoi.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_DemKiTuTrongChuoi\bin\Debug\CGO_Buoi05_DemKiTuTrongChuoi.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_DemKiTuTrongChuoi\bin\Debug\CGO_Buoi05_DemKiTuTrongChuoi.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_DemKiTuTrongChuoi\obj\Debug\CGO_Buoi05_DemKiTuTrongChuoi.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_DemKiTuTrongChuoi\obj\Debug\CGO_Buoi05_DemKiTuTrongChuoi.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_DemKiTuTrongChuoi\obj\Debug\CGO_Buoi05_DemKiTuTrongChuoi.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_DemKiTuTrongChuoi\obj\Debug\CGO_Buoi05_DemKiTuTrongChuoi.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi05\CGO_Buoi05_DemKiTuTrongChuoi\obj\Debug\CGO_Buoi05_DemKiTuTrongChuoi.pdb
