@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\Animal\bin\Debug\Animal.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\Animal\bin\Debug\Animal.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\Animal\bin\Debug\Animal.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\Animal\obj\Debug\Animal.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\Animal\obj\Debug\Animal.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\Animal\obj\Debug\Animal.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\Animal\obj\Debug\Animal.pdb

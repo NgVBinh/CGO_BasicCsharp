@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\HinhChuNhat\HinhChuNhat\bin\Debug\HinhChuNhat.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\HinhChuNhat\HinhChuNhat\bin\Debug\HinhChuNhat.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\HinhChuNhat\HinhChuNhat\bin\Debug\HinhChuNhat.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\HinhChuNhat\HinhChuNhat\obj\Debug\HinhChuNhat.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\HinhChuNhat\HinhChuNhat\obj\Debug\HinhChuNhat.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\HinhChuNhat\HinhChuNhat\obj\Debug\HinhChuNhat.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\HinhChuNhat\HinhChuNhat\obj\Debug\HinhChuNhat.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\HinhChuNhat\HinhChuNhat\obj\Debug\HinhChuNhat.pdb
