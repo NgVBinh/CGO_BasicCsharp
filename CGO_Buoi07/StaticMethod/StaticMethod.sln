@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticMethod", "StaticMethod\StaticMethod.csproj", "{C93166AB-1C26-49EC-8862-A6A2E7C43300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fan", "..\Fan\Fan.csproj", "{7A2697A7-F34E-4E15-BDD9-795D1B4AD538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatch", "..\StopWatch\StopWatch.csproj", "{1FFAD1BA-AC91-4257-9DCE-BFB75D6AECBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C93166AB-1C26-49EC-8862-A6A2E7C43300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93166AB-1C26-49EC-8862-A6A2E7C43300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93166AB-1C26-49EC-8862-A6A2E7C43300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93166AB-1C26-49EC-8862-A6A2E7C43300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A2697A7-F34E-4E15-BDD9-795D1B4AD538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2697A7-F34E-4E15-BDD9-795D1B4AD538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2697A7-F34E-4E15-BDD9-795D1B4AD538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2697A7-F34E-4E15-BDD9-795D1B4AD538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FFAD1BA-AC91-4257-9DCE-BFB75D6AECBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFAD1BA-AC91-4257-9DCE-BFB75D6AECBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFAD1BA-AC91-4257-9DCE-BFB75D6AECBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFAD1BA-AC91-4257-9DCE-BFB75D6AECBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {568EE7C1-074A-413A-89C4-A4F393485C22}
+	EndGlobalSection
+EndGlobal

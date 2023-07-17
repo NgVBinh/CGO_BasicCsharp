@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\StopWatch\bin\Debug\StopWatch.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\StopWatch\bin\Debug\StopWatch.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\StopWatch\bin\Debug\StopWatch.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\StopWatch\obj\Debug\StopWatch.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\StopWatch\obj\Debug\StopWatch.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\StopWatch\obj\Debug\StopWatch.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\StopWatch\obj\Debug\StopWatch.pdb

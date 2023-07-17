@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\Fan\bin\Debug\Fan.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\Fan\bin\Debug\Fan.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\Fan\bin\Debug\Fan.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\Fan\obj\Debug\Fan.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\Fan\obj\Debug\Fan.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\Fan\obj\Debug\Fan.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\Fan\obj\Debug\Fan.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\Fan\obj\Debug\Fan.pdb

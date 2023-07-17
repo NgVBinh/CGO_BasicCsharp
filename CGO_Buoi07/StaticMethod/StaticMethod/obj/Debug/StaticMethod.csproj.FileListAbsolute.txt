@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\StaticMethod\StaticMethod\bin\Debug\StaticMethod.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\StaticMethod\StaticMethod\bin\Debug\StaticMethod.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\StaticMethod\StaticMethod\bin\Debug\StaticMethod.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\StaticMethod\StaticMethod\obj\Debug\StaticMethod.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\StaticMethod\StaticMethod\obj\Debug\StaticMethod.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\StaticMethod\StaticMethod\obj\Debug\StaticMethod.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\StaticMethod\StaticMethod\obj\Debug\StaticMethod.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi07\StaticMethod\StaticMethod\obj\Debug\StaticMethod.pdb
