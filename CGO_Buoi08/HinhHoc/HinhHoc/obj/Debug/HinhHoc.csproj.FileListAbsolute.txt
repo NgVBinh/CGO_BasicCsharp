@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\HinhHoc\HinhHoc\bin\Debug\HinhHoc.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\HinhHoc\HinhHoc\bin\Debug\HinhHoc.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\HinhHoc\HinhHoc\bin\Debug\HinhHoc.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\HinhHoc\HinhHoc\obj\Debug\HinhHoc.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\HinhHoc\HinhHoc\obj\Debug\HinhHoc.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\HinhHoc\HinhHoc\obj\Debug\HinhHoc.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\HinhHoc\HinhHoc\obj\Debug\HinhHoc.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\HinhHoc\HinhHoc\obj\Debug\HinhHoc.pdb

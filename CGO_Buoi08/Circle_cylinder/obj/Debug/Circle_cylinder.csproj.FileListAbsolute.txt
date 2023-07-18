@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\Circle_cylinder\bin\Debug\Circle_cylinder.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\Circle_cylinder\bin\Debug\Circle_cylinder.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\Circle_cylinder\bin\Debug\Circle_cylinder.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\Circle_cylinder\obj\Debug\Circle_cylinder.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\Circle_cylinder\obj\Debug\Circle_cylinder.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\Circle_cylinder\obj\Debug\Circle_cylinder.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\Circle_cylinder\obj\Debug\Circle_cylinder.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\Circle_cylinder\obj\Debug\Circle_cylinder.pdb
