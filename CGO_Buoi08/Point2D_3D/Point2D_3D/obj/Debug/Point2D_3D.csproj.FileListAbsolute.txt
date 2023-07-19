@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\Point2D_3D\Point2D_3D\bin\Debug\Point2D_3D.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\Point2D_3D\Point2D_3D\bin\Debug\Point2D_3D.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\Point2D_3D\Point2D_3D\bin\Debug\Point2D_3D.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\Point2D_3D\Point2D_3D\obj\Debug\Point2D_3D.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\Point2D_3D\Point2D_3D\obj\Debug\Point2D_3D.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\Point2D_3D\Point2D_3D\obj\Debug\Point2D_3D.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\Point2D_3D\Point2D_3D\obj\Debug\Point2D_3D.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi08\Point2D_3D\Point2D_3D\obj\Debug\Point2D_3D.pdb
