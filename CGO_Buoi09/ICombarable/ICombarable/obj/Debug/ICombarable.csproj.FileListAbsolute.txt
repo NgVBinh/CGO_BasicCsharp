@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\ICombarable\ICombarable\bin\Debug\ICombarable.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\ICombarable\ICombarable\bin\Debug\ICombarable.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\ICombarable\ICombarable\bin\Debug\ICombarable.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\ICombarable\ICombarable\obj\Debug\ICombarable.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\ICombarable\ICombarable\obj\Debug\ICombarable.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\ICombarable\ICombarable\obj\Debug\ICombarable.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\ICombarable\ICombarable\obj\Debug\ICombarable.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\ICombarable\ICombarable\obj\Debug\ICombarable.pdb
