@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\Animal_Interface-eidble\Animal_Interface-eidble\bin\Debug\Animal_Interface-eidble.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\Animal_Interface-eidble\Animal_Interface-eidble\bin\Debug\Animal_Interface-eidble.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\Animal_Interface-eidble\Animal_Interface-eidble\bin\Debug\Animal_Interface-eidble.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\Animal_Interface-eidble\Animal_Interface-eidble\obj\Debug\Animal_Interface-eidble.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\Animal_Interface-eidble\Animal_Interface-eidble\obj\Debug\Animal_Interface-eidble.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\Animal_Interface-eidble\Animal_Interface-eidble\obj\Debug\Animal_Interface-eidble.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\Animal_Interface-eidble\Animal_Interface-eidble\obj\Debug\Animal_Interface-eidble.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\Animal_Interface-eidble\Animal_Interface-eidble\obj\Debug\Animal_Interface-eidble.pdb

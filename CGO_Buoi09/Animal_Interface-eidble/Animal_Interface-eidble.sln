@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal_Interface-eidble", "Animal_Interface-eidble\Animal_Interface-eidble.csproj", "{781844EC-A412-425D-AAA6-880BE03F342D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{781844EC-A412-425D-AAA6-880BE03F342D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781844EC-A412-425D-AAA6-880BE03F342D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781844EC-A412-425D-AAA6-880BE03F342D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781844EC-A412-425D-AAA6-880BE03F342D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B19D21A8-A454-48F4-BAAD-6CD5ECE8F4D9}
+	EndGlobalSection
+EndGlobal
