@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\Resizeable\Resizeable\bin\Debug\Resizeable.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\Resizeable\Resizeable\bin\Debug\Resizeable.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\Resizeable\Resizeable\bin\Debug\Resizeable.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\Resizeable\Resizeable\obj\Debug\Resizeable.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\Resizeable\Resizeable\obj\Debug\Resizeable.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\Resizeable\Resizeable\obj\Debug\Resizeable.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\Resizeable\Resizeable\obj\Debug\Resizeable.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi09\Resizeable\Resizeable\obj\Debug\Resizeable.pdb
