@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi10\IndexOutOfRangeException\IndexOutOfRangeException\bin\Debug\IndexOutOfRangeException.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi10\IndexOutOfRangeException\IndexOutOfRangeException\bin\Debug\IndexOutOfRangeException.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi10\IndexOutOfRangeException\IndexOutOfRangeException\bin\Debug\IndexOutOfRangeException.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi10\IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi10\IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi10\IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi10\IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi10\IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.pdb
