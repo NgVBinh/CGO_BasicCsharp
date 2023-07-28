@@ -1,0 +1,15 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi12\Game_Tic_Toc_Toe\Game_Tic_Toc_Toe\bin\Debug\net6.0\Game_Tic_Toc_Toe.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi12\Game_Tic_Toc_Toe\Game_Tic_Toc_Toe\bin\Debug\net6.0\Game_Tic_Toc_Toe.deps.json
+E:\Location\CGO_BasicCsharp\CGO_Buoi12\Game_Tic_Toc_Toe\Game_Tic_Toc_Toe\bin\Debug\net6.0\Game_Tic_Toc_Toe.runtimeconfig.json
+E:\Location\CGO_BasicCsharp\CGO_Buoi12\Game_Tic_Toc_Toe\Game_Tic_Toc_Toe\bin\Debug\net6.0\Game_Tic_Toc_Toe.dll
+E:\Location\CGO_BasicCsharp\CGO_Buoi12\Game_Tic_Toc_Toe\Game_Tic_Toc_Toe\bin\Debug\net6.0\Game_Tic_Toc_Toe.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi12\Game_Tic_Toc_Toe\Game_Tic_Toc_Toe\obj\Debug\net6.0\Game_Tic_Toc_Toe.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi12\Game_Tic_Toc_Toe\Game_Tic_Toc_Toe\obj\Debug\net6.0\Game_Tic_Toc_Toe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Location\CGO_BasicCsharp\CGO_Buoi12\Game_Tic_Toc_Toe\Game_Tic_Toc_Toe\obj\Debug\net6.0\Game_Tic_Toc_Toe.AssemblyInfoInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi12\Game_Tic_Toc_Toe\Game_Tic_Toc_Toe\obj\Debug\net6.0\Game_Tic_Toc_Toe.AssemblyInfo.cs
+E:\Location\CGO_BasicCsharp\CGO_Buoi12\Game_Tic_Toc_Toe\Game_Tic_Toc_Toe\obj\Debug\net6.0\Game_Tic_Toc_Toe.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi12\Game_Tic_Toc_Toe\Game_Tic_Toc_Toe\obj\Debug\net6.0\Game_Tic_Toc_Toe.dll
+E:\Location\CGO_BasicCsharp\CGO_Buoi12\Game_Tic_Toc_Toe\Game_Tic_Toc_Toe\obj\Debug\net6.0\refint\Game_Tic_Toc_Toe.dll
+E:\Location\CGO_BasicCsharp\CGO_Buoi12\Game_Tic_Toc_Toe\Game_Tic_Toc_Toe\obj\Debug\net6.0\Game_Tic_Toc_Toe.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi12\Game_Tic_Toc_Toe\Game_Tic_Toc_Toe\obj\Debug\net6.0\Game_Tic_Toc_Toe.genruntimeconfig.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi12\Game_Tic_Toc_Toe\Game_Tic_Toc_Toe\obj\Debug\net6.0\ref\Game_Tic_Toc_Toe.dll

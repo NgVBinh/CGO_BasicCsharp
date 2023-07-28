@@ -1,0 +1,8 @@
+E:\Location\CGO_BasicCsharp\CGO_Buoi11\QuanlySanpham_File\QuanlySanpham_File\bin\Debug\QuanlySanpham_File.exe.config
+E:\Location\CGO_BasicCsharp\CGO_Buoi11\QuanlySanpham_File\QuanlySanpham_File\bin\Debug\QuanlySanpham_File.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi11\QuanlySanpham_File\QuanlySanpham_File\bin\Debug\QuanlySanpham_File.pdb
+E:\Location\CGO_BasicCsharp\CGO_Buoi11\QuanlySanpham_File\QuanlySanpham_File\obj\Debug\QuanlySanpham_File.csproj.AssemblyReference.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi11\QuanlySanpham_File\QuanlySanpham_File\obj\Debug\QuanlySanpham_File.csproj.SuggestedBindingRedirects.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi11\QuanlySanpham_File\QuanlySanpham_File\obj\Debug\QuanlySanpham_File.csproj.CoreCompileInputs.cache
+E:\Location\CGO_BasicCsharp\CGO_Buoi11\QuanlySanpham_File\QuanlySanpham_File\obj\Debug\QuanlySanpham_File.exe
+E:\Location\CGO_BasicCsharp\CGO_Buoi11\QuanlySanpham_File\QuanlySanpham_File\obj\Debug\QuanlySanpham_File.pdb
